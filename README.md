@@ -1,6 +1,8 @@
 # vim-tid
 A tiddler syntax file for the VIM editor.
 
+This is a rough syntax file that need some tuning.  Please pull request.
+
 ## Installation
 
 ### Unix
